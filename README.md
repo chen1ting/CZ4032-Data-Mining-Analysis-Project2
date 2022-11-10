@@ -1,4 +1,4 @@
-# 4045NLP
+# 4032 Data Analytics & Mining - Project 2
 
 ### Setup virtual environment in project
 
